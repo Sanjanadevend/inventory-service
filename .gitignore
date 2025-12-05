@@ -3,10 +3,6 @@ target/
 .mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
-logs
-cerqlar-create-local
-cerqlar-patch-local
-!src/main/java/energy/uniper/cerqlar/
 
 ### STS ###
 .apt_generated
@@ -35,6 +31,3 @@ build/
 
 ### VS Code ###
 .vscode/
-
-### Local Docker ###
-local-docker
